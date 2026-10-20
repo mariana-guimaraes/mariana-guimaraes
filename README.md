@@ -24,11 +24,12 @@ Currently studying for the Oracle Certification Program ☕👾
 
 | Project | Stack | What it demonstrates |
 |---|---|---|
-| **[onlineStore](https://github.com/mariana-guimaraes/onlineStore)** | Java | E-commerce backend built as the final project for Harvard's CS50 (Introduction to Computer Science) course. |
-| **[onlineStoreFrontend](https://github.com/mariana-guimaraes/onlineStoreFrontend)** | HTML · CSS · JS · Bootstrap | Frontend companion to onlineStore. |
-| **[toDoList](https://github.com/mariana-guimaraes/toDoList)** | Java | Task manager app with full CRUD functionality. |
-| **[userSystem](https://github.com/mariana-guimaraes/userSystem)** | Java | User system with login, registration and read functionality. |
-| **[Java-Learning-Journey](https://github.com/mariana-guimaraes/Java-Learning-Journey)** | Java | Ongoing log of core programming concepts, algorithms and data structures as I build my foundation. |
+| **[media-library](https://github.com/mariana-guimaraes/media-library)** | Java | Library system that allows to organize, manage, and track movies, tv shows and other media records. |
+| **[online-store](https://github.com/mariana-guimaraes/online-store)** | Java | E-commerce backend built as the final project for Harvard's CS50 (Introduction to Computer Science) course. |
+| **[online-store-frontend](https://github.com/mariana-guimaraes/online-store-frontend)** | HTML · CSS · JS · Bootstrap | Frontend companion to onlineStore. |
+| **[to-dolist](https://github.com/mariana-guimaraes/to-do-list)** | Java | Task manager app with full CRUD functionality. |
+| **[user-system](https://github.com/mariana-guimaraes/user-system)** | Java | User system with login, registration and read functionality. |
+| **[java-learning-journey](https://github.com/mariana-guimaraes/java-learning-journey)** | Java | Ongoing log of core programming concepts, algorithms and data structures as I build my foundation. |
 
 ---
 
